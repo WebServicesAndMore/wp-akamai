@@ -1,3 +1,5 @@
+https://titanwolf.org/Network/Articles/Article?AID=e14fd29f-1ee7-4c6b-b36b-b0e0e899656d#gsc.tab=0
+
 === Akamai for WordPress ===
 Contributors: dshafik
 Tags: akamai, cache, purge, cdn
